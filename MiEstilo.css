@@ -1,0 +1,112 @@
+.body{
+    background: #808F85;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+position: absolute;
+width: 100%;
+height: 8vh;
+left: 0%;
+top: 0%;
+right: 0%;
+background: #0B3142;
+}
+
+.boton{
+width: 69px;
+height: 30px;
+left: 510px;
+top: 15px;
+margin: 5vw;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+
+.article{
+position: absolute;
+width: 78vw;
+height: 60vh;
+left: 0%;
+top: 20vh;
+font-size: 3em;
+color: #1C1D1B;
+
+}
+.h1{
+    color:#002B4E;
+
+}
+
+.Texto1{
+    color:#FFFFFF;
+}
+
+.footer{
+position: absolute;
+width: 100%;
+height: 10vh;
+left: 0%;
+right: 0%;
+top: 100%;
+background: #0B3142;
+font-size: large;
+color: #FFFFFF;
+}
+
+
+.h1P{
+    position: relative;
+    left: 43vw;
+    top: 20vh;
+    color: #002B4E;
+    font-size: 3em;
+}
+
+
+.Aproyecto{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 28vh;
+    font-size: 1.5em;
+    color: #002B4E;
+}
+
+.Tproyecto{
+position: relative;
+width: 10vw;
+height: 20vh;
+font-size: 0.9em;
+color: #1C1D1B;
+}
+
+
+.h1S{
+position: relative;
+width: 20vw;
+height: 10vh;
+left: 15vw;
+top: 0vh;
+color: #002B4E;
+
+}
+
+
+.Article2{
+position: relative;
+left: 28vw;
+top: 20vh;
+width: 50vw;
+height: 50vh;
+font-size: 3em;
+}
